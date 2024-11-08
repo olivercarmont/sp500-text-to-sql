@@ -2,6 +2,8 @@
 
 ![Project Image](readme-img.png)
 
+Try it here: [S&P 500 Financial Text-To-SQL App](https://sp500-text-to-sql.streamlit.app/)
+
 ## Overview
 A Streamlit application that allows users to explore and compare financial metrics across S&P 500 companies using natural language queries.
 
